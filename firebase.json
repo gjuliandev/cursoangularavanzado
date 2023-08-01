@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/cursoangularavanzado",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
